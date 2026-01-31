@@ -1,16 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Website</title>
-    <link rel="stylesheet" href="./style.css" />
-    <link rel="icon" href="./favicon.ico" type="image/x-icon" />
-  </head>
-  <body>
-    <main>
-      <h1>Welcome to My Website</h1>
-      <script src="index.js"></script>
-    </main>
-  </body>
-</html>   
+<meta http-equiv="refresh" content="0; url=media.honda.co.uk/car/owner/media/manuals/PreludeManualindex.html" />
+
