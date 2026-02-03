@@ -19,7 +19,9 @@
 
 .subs:hover { font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #FF0000; font-weight: bold; text-decoration: none}
 
+
 .title { font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #000000; font-weight: bold; text-decoration: none; line-height: 15px}
+
 
 .category { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; font-weight: bold; text-decoration: solid underline 1px;}
 
@@ -39,13 +41,13 @@ html, body {
 
 /* Top frame */
     .top {
-    border-bottom: 2px solid black;
+    border: none;
 }
 
 /* Bottom layout: left + main + content */
 .bottom {
     display: grid;
-    grid-template-columns: 210px 25% 75%;
+    grid-template-columns: 210px 1fr 3fr;
     height: 100%;
 }
 
@@ -57,9 +59,9 @@ iframe {
 
 /* Frame borders */
 .left {
-    border-right: 2px solid black;
+    border: none;
 }
 
 .main {
-    border-right: 2px solid black;
+    border: none;
 }
